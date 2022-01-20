@@ -1,6 +1,8 @@
 # StoreScrapingUtilities
 Tools for easily using Albertson's stores rewards 
 
+Currently configured for Safeway.com
+
 Use:
 > pip install -r requirements.txt
 
