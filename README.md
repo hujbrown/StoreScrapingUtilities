@@ -14,4 +14,5 @@ Format accounts.txt as:
 
 Stores results in 
 > ./CouponStats
+> 
 > ./Results
