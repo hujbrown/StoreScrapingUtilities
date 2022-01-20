@@ -12,3 +12,6 @@ Also make sure geckodriver is in your PATH and firefox is installed
 Format accounts.txt as:
 > (account_email):(password)
 
+Stores results in 
+> ./CouponStats
+> ./Results
