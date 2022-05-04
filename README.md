@@ -1,5 +1,5 @@
 # StoreScrapingUtilities
-Tools for easily using Albertson's stores rewards 
+Tools for easily using Albertson's store rewards 
 
 Currently configured for Safeway.com
 
