@@ -16,3 +16,5 @@ Stores results in
 > ./CouponStats
 > 
 > ./Results
+
+As CSVs
